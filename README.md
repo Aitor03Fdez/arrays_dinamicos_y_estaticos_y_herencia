@@ -1,4 +1,4 @@
-# Arrays, Dinámicos, Estáticos y Herencia
+# Arrays Dinámicos, Estáticos y Herencia
 
 Este repositorio contiene una colección de ejercicios prácticos en **Java** correspondientes a los temas 6 y 7 de programación. El objetivo es profundizar en la Programación Orientada a Objetos (POO) y el manejo de estructuras de datos lineales.
 
@@ -35,4 +35,4 @@ Para probar estos ejercicios localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/Aitor03Fdez/arrays_dinamicos_y_estaticos_y_herencia.git](https://github.com/Aitor03Fdez/arrays_dinamicos_y_estaticos_y_herencia.git)
+   git clone https://github.com/Aitor03Fdez/arrays_dinamicos_y_estaticos_y_herencia.git
